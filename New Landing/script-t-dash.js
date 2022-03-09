@@ -1,4 +1,4 @@
-// Label/Selected Label Stylings Stylings Upon Game Topics 
+// Label/Selected Label Stylings Upon Game Topics 
 // below:
 
 document.getElementById("col-lab-0").style.color = "white";
